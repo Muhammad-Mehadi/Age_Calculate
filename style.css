@@ -10,7 +10,7 @@ body {
 
 #form {
     width: auto;
-    margin: 10% 10%;
+    margin: 5% 10% 3% 10%;
     height: auto;
     background-color: #789395;
     border-radius: 5px;
@@ -54,4 +54,12 @@ input[type="submit"] {
 
 .error-input {
     border: 2px solid red;
+}
+
+.output {
+    font-size: 20px;
+    background-color: #ffc0d3;
+    margin: 0% 10% 5% 10%;
+    border-radius: 3px;
+    padding: 5px 0px 5px 8%;
 }
