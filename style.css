@@ -3,3 +3,51 @@
     padding: 0;
     font-family: monospace;
 }
+
+body {
+    background-color: #151d3b;
+}
+
+#form {
+    width: auto;
+    margin: 10% 10%;
+    height: auto;
+    background-color: #d82148;
+    border-radius: 5px;
+}
+
+.formTitle {
+    font-size: 30px;
+    padding: 15px 0px;
+    background-color: #6ebf8b;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.input-label {
+    color: aliceblue;
+    width: 80%;
+    margin: 5% 5% 0% 10%;
+    font-size: 20px;
+}
+
+.dateInput {
+    width: 80%;
+    margin: 0% 10%;
+    padding-left: 10px;
+    font-size: 20px;
+    outline: none;
+    border: 1px solid #6ebf8b;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    padding: 10px 50px;
+    margin: 5% 0% 5% 10%;
+    background-color: #dadbbd;
+    border: 0px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 15px;
+}
